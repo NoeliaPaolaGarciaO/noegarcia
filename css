@@ -153,7 +153,7 @@ body{
     color: #7304a7;
 }
 
-.info-sobremi{
+.contenedor-sobre{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -202,7 +202,7 @@ main h1::first-letter{
 
 
 .datos1{
-    text-align: right;
+    text-align:right;
     margin-right: 20px;
     
 }
